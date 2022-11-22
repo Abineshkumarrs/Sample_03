@@ -1,0 +1,2 @@
+Test sample cases 
+To upload local repository to remote repository
